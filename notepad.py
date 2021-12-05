@@ -3,6 +3,8 @@ from tkinter.messagebox import showinfo
 from tkinter.filedialog import askopenfilename, asksaveasfilename
 import os
 
+#Created By Vishal 
+
 def newFile():
     global file
     root.title("Untitled - Notepad")
